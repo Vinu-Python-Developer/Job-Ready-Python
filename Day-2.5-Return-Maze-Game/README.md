@@ -31,5 +31,5 @@ If your choices match the correct hidden path, the puppy reaches home safely! ğŸ
 
 ---
 
-## ğŸ§ª Sample Gameplay
+
 
